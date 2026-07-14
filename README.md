@@ -2,7 +2,7 @@
 
 > Customer-segmentation study for **Chestnut Ridge** retail using hierarchical + K-means clustering in **R**, followed by a **GE-matrix** segment-attractiveness evaluation and strategic recommendations.
 >
-> **Marketing Analytics**
+> **BEMM463 — Marketing Analytics, University of Exeter Business School**
 
 ---
 
